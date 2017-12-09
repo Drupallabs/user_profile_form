@@ -1,0 +1,5 @@
+name: User Profile Form
+type: module
+description: Creates a second form mode called "Profile" and a "Profile" tab on the user page.
+core: 8.x
+package: KarenS

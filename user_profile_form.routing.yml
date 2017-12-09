@@ -1,0 +1,10 @@
+entity.user.profile:
+  path: '/user/{user}/profile'
+  defaults:
+    _entity_form: user.profile
+    _title: 'Edit User Profile'
+  requirements:
+    _permission: 'edit user entities'
+    _entity_access: 'user.edit'
+  options:
+    _admin_route: TRUE

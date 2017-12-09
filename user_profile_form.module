@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * @file
+ * Contains user_profile_form.module.
+ */
+
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Entity\ContentEntityFormInterface;
+
+/**
+ * Implements hook_entity_type_build().
+ */
+function user_profile_form_entity_type_build(array &$entity_types) {
+  $entity_types['user']->setFormClass('profile', 'Drupal\user\ProfileForm');
+}

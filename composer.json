@@ -1,0 +1,9 @@
+{
+  "name": "drupal/user_profile_form",
+  "type": "drupal-custom-module",
+  "description": "Creates a second form mode called 'Profile' and redirects users to it.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
