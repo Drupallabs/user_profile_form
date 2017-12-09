@@ -1,4 +1,4 @@
-#User Profile Form
+# User Profile Form
 
 ## What this module does
 This module allows you to separate fields on the user form into two separate forms/tabs, the regular user edit form and a separate "Profile" form. This makes it possible to simplify the standard edit form and even style the 'edit' and 'profile' forms differently.
