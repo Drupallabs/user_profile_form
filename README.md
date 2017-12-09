@@ -52,7 +52,6 @@ function user_profile_form_form_user_form_alter(&$form, FormStateInterface $form
 Ideas for this module came partly from the following:
 
  * [https://www.webomelette.com/render-custom-entity-form-modes-programatically-drupal-8](https://www.webomelette.com/render-custom-entity-form-modes-programatically-drupal-8)
- * [https://www.sitepoint.com/how-to-build-multi-step-forms-in-drupal-8/](https://www.sitepoint.com/how-to-build-multi-step-forms-in-drupal-8/)
  * [https://www.drupal.org/docs/8/api/entity-api/display-modes-view-modes-and-form-modes](https://www.drupal.org/docs/8/api/entity-api/display-modes-view-modes-and-form-modes)
  * [https://www.drupal.org/docs/8/api/routing-system/structure-of-routes](https://www.drupal.org/docs/8/api/routing-system/structure-of-routes)
 
